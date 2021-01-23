@@ -1,0 +1,6 @@
+# Gitignore
+#
+
+!share
+!include
+!lib/gcc/i686-linux-android/4.9.x/finclude
